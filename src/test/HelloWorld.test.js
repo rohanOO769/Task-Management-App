@@ -1,7 +1,7 @@
 // HelloWorld.test.js
 
 const React = require('react');
-const HelloWorld = require('../../Recycle/HelloWorld').default;
+const HelloWorld = require('../pages/HelloWorld').default;
 
 // Mock React.createElement
 global.React = {
